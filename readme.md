@@ -1,4 +1,4 @@
-# vsauce-math-magic [![Build Status](https://travis-ci.org/stevemao/vsauce-math-magic.svg?branch=master)](https://travis-ci.org/stevemao/vsauce-math-magic)
+# Vsauce Math Magic [![Build Status](https://travis-ci.org/stevemao/vsauce-math-magic.svg?branch=master)](https://travis-ci.org/stevemao/vsauce-math-magic)
 
 > Demo of https://www.youtube.com/watch?v=ObiqJzfyACM
 
