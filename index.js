@@ -42,7 +42,7 @@ function shuffle(cards) {
 
 function start(count) {
 	if (typeof count !== 'number') {
-		throw TypeError('count must be a number.');
+		throw new TypeError('count must be a number.');
 	}
 
 	var cards = init(count);
