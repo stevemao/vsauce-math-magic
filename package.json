@@ -1,0 +1,40 @@
+{
+  "name": "vsauce-math-magic",
+  "version": "0.0.0",
+  "description": "Demo of https://www.youtube.com/watch?v=ObiqJzfyACM",
+  "license": "MIT",
+  "repository": "stevemao/vsauce-math-magic",
+  "author": {
+    "name": "Steve Mao",
+    "email": "maochenyan@gmail.com",
+    "url": "github.com/stevemao"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "keywords": [
+    "vsauce-math-magic",
+    "demo",
+    "vsauce",
+    "math",
+    "magic"
+  ],
+  "dependencies": {
+    "array-equal": "^1.0.0",
+    "chalk": "^1.1.1",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.12.0",
+    "xo": "^0.12.1"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
