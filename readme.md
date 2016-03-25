@@ -1,17 +1,24 @@
 # Vsauce Math Magic [![Build Status](https://travis-ci.org/stevemao/vsauce-math-magic.svg?branch=master)](https://travis-ci.org/stevemao/vsauce-math-magic)
 
-> Demo of https://www.youtube.com/watch?v=ObiqJzfyACM
+Demo of [Math Magic](https://www.youtube.com/watch?v=ObiqJzfyACM#t=14m56s)
 
-> Every time you shuffle a deck of cards well, smush it for a few minutes, or refel itself a few more times. Chances are, you have put those playing cards into an order that they have never been in in the entire history of cards or humans or the universe.
+> Every time you shuffle a deck of cards well, smoosh it for a few minutes or
+> riffle it seven or more times, chances are you have put those playing cards
+> into an order that they have never been in in the entire history of cards, or
+> humans, or the universe. **Seriously.**
+> -- [Michael Stevens](https://www.youtube.com/watch?v=ObiqJzfyACM#t=14m56s)
 
-# SERIOUSLY!
+When the program starts, it will continuously and randomly reorder a deck of
+cards, remembering each order it produces. When an order has appeared more than
+once, it stops. This program demonstrates how long it would take to achieve
+two identical deck orders through random shuffling. In fact, the program will
+start to take a significant amount of time even if there are only 12 cards. So
+if you select 13 cards, chances are your program is going to freeze for a
+while. `13!` *(13 factorial)* is already **QUITE BIG!!**
 
-> -- Michael Stevens
-
-When the program starts, it will keep randomly ordering a deck of cards and remembers it. Once the order has appear before, it stops.
-This program demonstrates how long it would take to achieve it. In fact, the program would start to take significant amount of time if there are 12 cards. So if you put 13 cards, chances are your program is going to freeze for a while. `13!` is already QUITE BIG!!
-
-Please checkout the [awesome video](https://www.youtube.com/watch?v=ObiqJzfyACM) and the links provided by the video!
+Please check out the
+[awesome video](https://www.youtube.com/watch?v=ObiqJzfyACM)
+and the links provided in the video description!
 
 
 ## Install
