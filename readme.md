@@ -6,7 +6,7 @@ Demo of [Math Magic](https://www.youtube.com/watch?v=ObiqJzfyACM#t=14m56s)
 > riffle it seven or more times, chances are you have put those playing cards
 > into an order that they have never been in in the entire history of cards, or
 > humans, or the universe. **Seriously.**
-> -- [Michael Stevens](https://www.youtube.com/watch?v=ObiqJzfyACM#t=14m56s)
+> -- [Michael Stevens](https://www.youtube.com/user/Vsauce)
 
 When the program starts, it will continuously and randomly reorder a deck of
 cards, remembering each order it produces. When an order has appeared more than
